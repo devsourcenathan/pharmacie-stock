@@ -13,7 +13,7 @@ namespace Pharmacie.models
         public string Email { get; set; }
         public string Telephone { get; set; }
         public string Login { get; set; }
-        public string password { get; set; }
-        public bool state { get; set; }
+        public string Password { get; set; }
+        public bool State { get; set; }
     }
 }
