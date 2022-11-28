@@ -1,1 +1,9 @@
 c:\users\saden\onedrive\documents\visual studio 2015\Projects\Pharmacie\Pharmacie\bin\Debug\Pharmacie.exe.config
+c:\users\saden\onedrive\documents\visual studio 2015\Projects\Pharmacie\Pharmacie\bin\Debug\Pharmacie.exe
+c:\users\saden\onedrive\documents\visual studio 2015\Projects\Pharmacie\Pharmacie\bin\Debug\Pharmacie.pdb
+c:\users\saden\onedrive\documents\visual studio 2015\Projects\Pharmacie\Pharmacie\bin\Debug\Guna.UI2.dll
+c:\users\saden\onedrive\documents\visual studio 2015\Projects\Pharmacie\Pharmacie\obj\Debug\Pharmacie.csprojResolveAssemblyReference.cache
+c:\users\saden\onedrive\documents\visual studio 2015\Projects\Pharmacie\Pharmacie\obj\Debug\Pharmacie.Properties.Resources.resources
+c:\users\saden\onedrive\documents\visual studio 2015\Projects\Pharmacie\Pharmacie\obj\Debug\Pharmacie.csproj.GenerateResource.Cache
+c:\users\saden\onedrive\documents\visual studio 2015\Projects\Pharmacie\Pharmacie\obj\Debug\Pharmacie.exe
+c:\users\saden\onedrive\documents\visual studio 2015\Projects\Pharmacie\Pharmacie\obj\Debug\Pharmacie.pdb
